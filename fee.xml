@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="fee.xsl" type="text/xsl"?>
+<!DOCTYPE fee SYSTEM "Login.dtd">
+<fee>
+    <student>
+        
+        <id>PID10</id>
+        <name>Archana</name>
+        <age>21</age>
+        <course>MCA</course>
+    </student>
+
+    <student>
+        <id>PID03</id>
+        <name>Sona</name>
+        <age>21</age>
+        <course>MCA</course>
+    </student>
+
+    <student>
+    
+        <id>PID07</id>
+        <name>Ashitha</name>
+        <age>22</age>
+        <course>Mcom</course>
+    </student>
+
+    <student>
+        
+        <id>PID11</id>
+        <name>Anna</name>
+        <age>22</age>
+        <course>Msc</course>
+    </student>
+
+    <student>
+        
+        <id>PID44</id>
+        <name>darpan</name>
+        <age>23</age>
+        <course>Phd</course>
+    </student>
+</fee>
